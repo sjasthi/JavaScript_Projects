@@ -46,7 +46,7 @@ This project is designed for **beginner to intermediate** high school students l
 
 ## 📸 Screenshots
 
-![Task List Screenshot](screenshot.png) <!-- Add a screenshot of the app or remove section -->
+![Task List Screenshot](screenshot.jpg) <!-- Add a screenshot of the app or remove section -->
 
 ---
 
